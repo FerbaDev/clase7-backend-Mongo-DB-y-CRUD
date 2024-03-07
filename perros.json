@@ -1,0 +1,43 @@
+[
+    {
+      "nombre": "Max",
+      "raza": "Golden Retriever",
+      "edad": 3
+    },
+    {
+      "nombre": "Luna",
+      "raza": "Labrador",
+      "edad": 2
+    },
+    {
+      "nombre": "Rocky",
+      "raza": "Bulldog",
+      "edad": 4
+    },
+    {
+      "nombre": "Bella",
+      "raza": "Poodle",
+      "edad": 5
+    },
+    {
+      "nombre": "Coco",
+      "raza": "Chihuahua",
+      "edad": 1
+    },
+    {
+      "nombre": "Toby",
+      "raza": "Beagle",
+      "edad": 6
+    },
+    {
+      "nombre": "Daisy",
+      "raza": "Dachshund",
+      "edad": 2
+    },
+    {
+      "nombre": "Rex",
+      "raza": "German Shepherd",
+      "edad": 7
+    }
+  ]
+  
